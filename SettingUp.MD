@@ -9,6 +9,9 @@ win10 出状况重装系统，刚好给我一个机会重新搭建工作环境�
 5. google drive
 6. [Vlc Player](https://sourceforge.net/projects/vlc/?source=typ_redirect)
 
+## 系统管理
+1. [windirstat](https://windirstat.net/)
+
 ## 开发环境
 * [sublime text3](http://www.sublimetext.com/3)
 * Notepad++
